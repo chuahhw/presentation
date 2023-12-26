@@ -10,4 +10,4 @@
 <p>Answer: We mostly generate our income through ads. </p>
 
 <p>Slides:</p>
-(https://github.com/chuahhw/presentation/files/13767678/SOLUBILLION.pptx)
+(https://github.com/chuahhw/presentation/files/13767683/SOLUBILLION.1.pdf)
