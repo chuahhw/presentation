@@ -11,3 +11,8 @@
 
 <p>Slides:</p>
 <a href= https://www.canva.com/design/DAF3O7nAvys/Nioyerdo8S1O12F2f7ejLQ/view?utm_content=DAF3O7nAvys&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel">Slides</a>
+
+<h2>What's Next</h2>
+<a href="https://github.com/chuahhw">Home</a>
+
+<a href="https://github.com/chuahhw/tis">TIS</a>
